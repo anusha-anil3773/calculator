@@ -1,20 +1,65 @@
 .main-body{
     width: 350px;
     height: 500px;
-    background: rgb(228, 220, 220);
-    border: rgba(143, 0, 0, 0.582);
+    background:black;
+   
     margin-left:500px ;
     margin-top: 30px;
+    border-radius: 10px;
     
 }
 .screen{
-    margin: 31px;
-    width: 80%;
+    margin: 22px;
+    width: 85%;
     height: 65px;
+    background:white;
+    font-size: 40px;
+    border-radius: 10px;
+
 }
 .btn{
     width: 70px;
     height: 50px;
     margin-left: 12px;
     margin-top: 15px;
+    background: rgb(53, 48, 48);
+    display: inline-block;
+    border-radius: 20px;
+    border-color:rgb(202, 174, 221);
+    color: white;
+    font-size: 20px;
+   
+    
 }
+
+.clear{
+    width: 155px;
+    height:50px ;
+    margin-left: 12px;
+    border-radius: 15px;
+    background:rgb(53, 48, 48);
+    color: white;
+    font-size: 20px;
+    border-color:rgb(202, 174, 221);
+   
+}
+
+.zero{
+    width: 155px;
+    height:50px ;
+    margin-left: 12px;
+    border-radius: 15px;
+    background:rgb(53, 48, 48);
+    color: white;
+    font-size: 20px;
+    border-color:rgb(202, 174, 221);
+
+  
+}
+.calcu{
+    border-radius: 10px;
+    background:rgba(24, 61, 110, 0.521);
+    border-color: black;
+}
+
+  
